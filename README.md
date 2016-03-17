@@ -65,7 +65,6 @@ En utilisant ces outils vous devez être capable d'organiser votre code et d'aug
 
 *** ! Pour chaque exercice, le fichier `./exerciceX/index.js` constitue la base et le point d'entrée de chaque exercice. Autrement dit de chaque petite application React. Il ne doit en aucun cas être renommé. Dans ce fichier, une petite aide en commentaire vous sera proposé pour que vous puissiez créer votre point d'entrée.***
 
-
 ## Exercice 3 :
 
 ### Créer un composant react en utilisant `class` et `extends`
