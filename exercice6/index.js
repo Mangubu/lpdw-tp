@@ -1,8 +1,8 @@
-/*import React    from 'react-dom';
+import React    from 'react-dom';
 import ReactDOM from 'react-dom';
-import YourApp  from './components/YourApp';
+import todoList  from './components/todoList.jsx';
 
 ReactDOM.render(
-  <YourApp />,
+  <App />,
   document.getElementById('root')
-);*/
+);

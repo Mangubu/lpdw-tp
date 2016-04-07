@@ -1,8 +1,8 @@
-/*import React    from 'react-dom';
+import React    from 'react';
 import ReactDOM from 'react-dom';
-import YourApp  from './components/YourApp';
+import HelloWorld  from './components/Hello-World';
 
 ReactDOM.render(
-  <YourApp />,
-  document.getElementById('root')
-);*/
+<HelloWorld name="Pebie" />,
+    document.getElementById('root')
+);
